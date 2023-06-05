@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick Mendes</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erickmendes95&label=Profile%20views&color=0e75b6&style=flat" alt="erickmendes95" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erickmendes95" alt="erickmendes95" /></a> </p>
+<img align="right" alt="Tech" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 - 🔭 I’m currently working on **Whiteboard Nutrition**
 
@@ -28,4 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erickmendes95&show_icons=true&locale=en" alt="erickmendes95" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erickmendes95&" alt="erickmendes95" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erickmendes95&label=Profile%20views&color=0e75b6&style=flat" alt="erickmendes95" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erickmendes95" alt="erickmendes95" /></a> </p>
