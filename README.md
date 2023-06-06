@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick Mendes</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 - 🔭 I’m currently working on **Whiteboard Nutrition**
 
