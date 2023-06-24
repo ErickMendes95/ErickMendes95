@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Mendes</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Whiteboard Nutrition**
+- 🔭 I’m currently working on **PetMatch**
 
 - 🌱 I’m currently learning **NextJS + TailwindCSS, Docker**
 
