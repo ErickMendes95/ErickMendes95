@@ -118,7 +118,7 @@
            Restful API
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nest/nest-original.svg" width="40" alt="nestjs logo"/>
+          <img src="https://skillicons.dev/icons?i=nestjs" width="40" alt="nestjs logo"/>
            Nest.js
         </td>
       </tr>
