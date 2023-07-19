@@ -117,6 +117,10 @@
           <img src="https://github.com/ErickMendes95/ErickMendes95/assets/88746995/3140e3fc-f6dd-4003-bbb7-12d59e7e646f" width="40" />
            Restful API
         </td>
+        <td>
+          <img src="https://github.com/ErickMendes95/ErickMendes95/assets/88746995/3140e3fc-f6dd-4003-bbb7-12d59e7e646f" width="40" />
+           Nest.js
+        </td>
       </tr>
     </tbody>
   </table>
