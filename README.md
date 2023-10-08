@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erick Mendes</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Learning Java from Loiane Groner Training Courses**
+- 🔭 I’m currently working on **Tutoring people with frontend**
 
-- 🌱 I’m currently learning **Angular + Java Springboot**
+- 🌱 I’m currently learning **Java + Springboot**
 
 - 💬 Ask me about **Javascript**
 
